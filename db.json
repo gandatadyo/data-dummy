@@ -1,14 +1,103 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "layanan": [
+        {
+            "cover": "https://jabarnews.com/assets/uploads/2020/04/pzmvwd8vm1j4_mid.jpg",
+            "caption": "Apps Android Peduli Lindungi",
+            "desc": "layanan pengaduan covid dengan melalui aplikasi peduli lindungi"
+        },
+        {
+            "cover": "https://wgroup.id/wp-content/uploads/2019/09/call-center-agent-efficiency-640x427.jpg",
+            "caption": "Call Center 1500117",
+            "desc": "Anda bisa menghubungi layanan pengaduan covid dengan melalui layanan call center"
+        },
+        {
+            "cover": "https://pbs.twimg.com/media/ETxZVt1UUAE_0Ox.jpg",
+            "caption": "WhatsApp +62082264576766",
+            "desc": "Anda bisa menghubungi layanan pengaduan covid dengan melalui WhatsApp"
+        },
+        {
+            "cover": "https://disk.mediaindonesia.com/thumbs/1800x1200/news/2020/04/e9729eea0beeec0c11b294f7413c00c6.jpg",
+            "caption": "Facebook COVIDINDO",
+            "desc": "Anda bisa menghubungi layanan pengaduan covid dengan melalui Facebook"
+        }
+    ],
+    "berita": [
+        {
+            "title": "Sebaran 433 Kasus Baru Covid-19: DKI Tetap Tertinggi, Disusul Jatim",
+            "img": "https://asset.kompas.com/crops/stSRBOJmx4LP6Ezk_DQpBJBhq0E=/0x0:1280x853/750x500/data/photo/2020/04/04/5e88715375d7f.jpeg",
+            "desc": "Artikel ini telah tayang di Kompas.com dengan judul Sebaran 433 Kasus Baru Covid-19: DKI Tetap Tertinggi, Disusul Jatim, https://nasional.kompas.com/read/2020/05/01/16440401/sebaran-433-kasus-baru-covid-19-dki-tetap-tertinggi-disusul-jatim. Penulis : Ihsanuddin Editor : Fabian Januarius Kuwado",
+            "date": "2 januari 2020"
+        },
+        {
+            "title": "Sebaran 433 Kasus Baru Covid-19: DKI Tetap Tertinggi, Disusul Jatim",
+            "img": "https://asset.kompas.com/crops/stSRBOJmx4LP6Ezk_DQpBJBhq0E=/0x0:1280x853/750x500/data/photo/2020/04/04/5e88715375d7f.jpeg",
+            "desc": "Artikel ini telah tayang di Kompas.com dengan judul Sebaran 433 Kasus Baru Covid-19: DKI Tetap Tertinggi, Disusul Jatim, https://nasional.kompas.com/read/2020/05/01/16440401/sebaran-433-kasus-baru-covid-19-dki-tetap-tertinggi-disusul-jatim. Penulis : Ihsanuddin Editor : Fabian Januarius Kuwado",
+            "date": "2 januari 2020"
+        },
+        {
+            "title": "Sebaran 433 Kasus Baru Covid-19: DKI Tetap Tertinggi, Disusul Jatim",
+            "img": "https://asset.kompas.com/crops/stSRBOJmx4LP6Ezk_DQpBJBhq0E=/0x0:1280x853/750x500/data/photo/2020/04/04/5e88715375d7f.jpeg",
+            "desc": "Artikel ini telah tayang di Kompas.com dengan judul Sebaran 433 Kasus Baru Covid-19: DKI Tetap Tertinggi, Disusul Jatim, https://nasional.kompas.com/read/2020/05/01/16440401/sebaran-433-kasus-baru-covid-19-dki-tetap-tertinggi-disusul-jatim. Penulis : Ihsanuddin Editor : Fabian Januarius Kuwado",
+            "date": "2 januari 2020"
+        }
+    ],
+    "tips": {
+        "gejala": [
+            {
+                "title": "Demam",
+                "desc": "Demam menunjukkan gejala awal corona, demam biasanya mencapai suhu 38 derajat celcius keatas"
+            },
+            {
+                "title": "Batuk Kering",
+                "desc": "Batuk Kering tidak beriak dan berulang ulang merupakan tanda infeksi aktif di paru-paru, yang mungkin bisa disebabkan karena COVID-19"
+            },
+            {
+                "title": "Sakit Tenggorokan",
+                "desc": "Infeksi COVID-19 akan melalui jalur pernafasan sehingga dapat mengakibatkan radang pada tenggorokan dan rasa nyeri"
+            },
+            {
+                "title": "Sakit Kepala",
+                "desc": "Dengan adanya demam yang tinggi, COVID-19 seringkali diikuti dengan gejala sakit kepala"
+            },
+            {
+                "title": "Lemas",
+                "desc": "Infeksi COVID-19 yang telah menyebar ke seluruh tubuh akan menghabiskan energi yang banyak sehingga seringkali dapat mengakibatkan lemas"
+            },
+            {
+                "title": "Sesak Nafas",
+                "desc": "Apabila COVID-19 berkembang dengan cepat dan besar di paru-paru, fungsi paru akan menurun sehingga terjadi sesak nafas"
+            }
+        ],
+        "jenis_pasien": [
+            {
+                "title": "Orang Dalam Pemantauan",
+                "desc": "ODP adalah singkatan dari Orang Dalam Pemantauan. Seseorang yang mengalami demam (≥38⁰C) atau riwayat demam; atau gejala gangguan sistem pernapasan seperti pilek/sakit tenggorokan/batuk dan 14 hari terakhir sebelum timbul gejala memiliki riwayat perjalanan atau tinggal di luar negeri yang melaporkan transmisi local atau di area transmisi lokal di Indonesia."
+            },
+            {
+                "title": "Pasien Dalam Pengawasan",
+                "desc": "PDP adalah singkatan dari Pasien Dalam Pengawasan. Seseorang dengan demam (≥38⁰C), disertai salah satu gejala/tanda penyakit pernapasan seperti: batuk/ sesak nafas/ sakit tenggorokan/ pilek/ pneumonia ringan hingga berat dan 14 hari terakhir sebelum timbul gejala"
+            },
+            {
+                "title": "Pasien Mengidap Corona",
+                "desc": "Seseorang terinfeksi COVID-19 dengan hasil pemeriksaan laboratorium positif."
+            }
+        ]
+    },
+    "kegiatan": [
+        {
+            "title": "Sebaran 433 Kasus Baru Covid-19: DKI Tetap Tertinggi, Disusul Jatim",
+            "desc": "Artikel ini telah tayang di Kompas.com dengan judul Sebaran 433 Kasus Baru Covid-19: DKI Tetap Tertinggi, Disusul Jatim, https://nasional.kompas.com/read/2020/05/01/16440401/sebaran-433-kasus-baru-covid-19-dki-tetap-tertinggi-disusul-jatim. Penulis : Ihsanuddin Editor : Fabian Januarius Kuwado",
+            "date": "2 januari 2020"
+        },
+        {
+            "title": "Sebaran 433 Kasus Baru Covid-19: DKI Tetap Tertinggi, Disusul Jatim",
+            "desc": "Artikel ini telah tayang di Kompas.com dengan judul Sebaran 433 Kasus Baru Covid-19: DKI Tetap Tertinggi, Disusul Jatim, https://nasional.kompas.com/read/2020/05/01/16440401/sebaran-433-kasus-baru-covid-19-dki-tetap-tertinggi-disusul-jatim. Penulis : Ihsanuddin Editor : Fabian Januarius Kuwado",
+            "date": "2 januari 2020"
+        },
+        {
+            "title": "Sebaran 433 Kasus Baru Covid-19: DKI Tetap Tertinggi, Disusul Jatim",
+            "desc": "Artikel ini telah tayang di Kompas.com dengan judul Sebaran 433 Kasus Baru Covid-19: DKI Tetap Tertinggi, Disusul Jatim, https://nasional.kompas.com/read/2020/05/01/16440401/sebaran-433-kasus-baru-covid-19-dki-tetap-tertinggi-disusul-jatim. Penulis : Ihsanuddin Editor : Fabian Januarius Kuwado",
+            "date": "2 januari 2020"
+        }
+    ]
 }
