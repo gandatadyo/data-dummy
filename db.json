@@ -1,105 +1,95 @@
 {
-	"covid-indonesia": [{
-		"name": "Indonesia",
-		"positif": "13,645",
-		"sembuh": "2,607",
-		"meninggal": "959",
-		"dirawat": "10,079"
-	}],
-	"layanan": [{
-			"cover": "https://jabarnews.com/assets/uploads/2020/04/pzmvwd8vm1j4_mid.jpg",
-			"caption": "Apps Android Peduli Lindungi",
-			"desc": "layanan pengaduan covid dengan melalui aplikasi peduli lindungi"
-		},
-		{
-			"cover": "https://wgroup.id/wp-content/uploads/2019/09/call-center-agent-efficiency-640x427.jpg",
-			"caption": "Call Center 1500117",
-			"desc": "Anda bisa menghubungi layanan pengaduan covid dengan melalui layanan call center"
-		},
-		{
-			"cover": "https://pbs.twimg.com/media/ETxZVt1UUAE_0Ox.jpg",
-			"caption": "WhatsApp +62082264576766",
-			"desc": "Anda bisa menghubungi layanan pengaduan covid dengan melalui WhatsApp"
-		},
-		{
-			"cover": "https://disk.mediaindonesia.com/thumbs/1800x1200/news/2020/04/e9729eea0beeec0c11b294f7413c00c6.jpg",
-			"caption": "Facebook COVIDINDO",
-			"desc": "Anda bisa menghubungi layanan pengaduan covid dengan melalui Facebook"
-		}
-	],
-	"berita": [{
-			"title": "Sebaran 433 Kasus Baru Covid-19: DKI Tetap Tertinggi, Disusul Jatim",
-			"img": "https://asset.kompas.com/crops/stSRBOJmx4LP6Ezk_DQpBJBhq0E=/0x0:1280x853/750x500/data/photo/2020/04/04/5e88715375d7f.jpeg",
-			"desc": "Artikel ini telah tayang di Kompas.com dengan judul Sebaran 433 Kasus Baru Covid-19: DKI Tetap Tertinggi, Disusul Jatim, https://nasional.kompas.com/read/2020/05/01/16440401/sebaran-433-kasus-baru-covid-19-dki-tetap-tertinggi-disusul-jatim. Penulis : Ihsanuddin Editor : Fabian Januarius Kuwado",
-			"date": "2 januari 2020"
-		},
-		{
-			"title": "Sebaran 433 Kasus Baru Covid-19: DKI Tetap Tertinggi, Disusul Jatim",
-			"img": "https://asset.kompas.com/crops/stSRBOJmx4LP6Ezk_DQpBJBhq0E=/0x0:1280x853/750x500/data/photo/2020/04/04/5e88715375d7f.jpeg",
-			"desc": "Artikel ini telah tayang di Kompas.com dengan judul Sebaran 433 Kasus Baru Covid-19: DKI Tetap Tertinggi, Disusul Jatim, https://nasional.kompas.com/read/2020/05/01/16440401/sebaran-433-kasus-baru-covid-19-dki-tetap-tertinggi-disusul-jatim. Penulis : Ihsanuddin Editor : Fabian Januarius Kuwado",
-			"date": "2 januari 2020"
-		},
-		{
-			"title": "Sebaran 433 Kasus Baru Covid-19: DKI Tetap Tertinggi, Disusul Jatim",
-			"img": "https://asset.kompas.com/crops/stSRBOJmx4LP6Ezk_DQpBJBhq0E=/0x0:1280x853/750x500/data/photo/2020/04/04/5e88715375d7f.jpeg",
-			"desc": "Artikel ini telah tayang di Kompas.com dengan judul Sebaran 433 Kasus Baru Covid-19: DKI Tetap Tertinggi, Disusul Jatim, https://nasional.kompas.com/read/2020/05/01/16440401/sebaran-433-kasus-baru-covid-19-dki-tetap-tertinggi-disusul-jatim. Penulis : Ihsanuddin Editor : Fabian Januarius Kuwado",
-			"date": "2 januari 2020"
-		}
-	],
-	"tips": {
-		"gejala": [{
-				"title": "Demam",
-				"desc": "Demam menunjukkan gejala awal corona, demam biasanya mencapai suhu 38 derajat celcius keatas"
-			},
-			{
-				"title": "Batuk Kering",
-				"desc": "Batuk Kering tidak beriak dan berulang ulang merupakan tanda infeksi aktif di paru-paru, yang mungkin bisa disebabkan karena COVID-19"
-			},
-			{
-				"title": "Sakit Tenggorokan",
-				"desc": "Infeksi COVID-19 akan melalui jalur pernafasan sehingga dapat mengakibatkan radang pada tenggorokan dan rasa nyeri"
-			},
-			{
-				"title": "Sakit Kepala",
-				"desc": "Dengan adanya demam yang tinggi, COVID-19 seringkali diikuti dengan gejala sakit kepala"
-			},
-			{
-				"title": "Lemas",
-				"desc": "Infeksi COVID-19 yang telah menyebar ke seluruh tubuh akan menghabiskan energi yang banyak sehingga seringkali dapat mengakibatkan lemas"
-			},
-			{
-				"title": "Sesak Nafas",
-				"desc": "Apabila COVID-19 berkembang dengan cepat dan besar di paru-paru, fungsi paru akan menurun sehingga terjadi sesak nafas"
-			}
-		],
-		"jenis_pasien": [{
-				"title": "Orang Dalam Pemantauan",
-				"desc": "ODP adalah singkatan dari Orang Dalam Pemantauan. Seseorang yang mengalami demam (≥38⁰C) atau riwayat demam; atau gejala gangguan sistem pernapasan seperti pilek/sakit tenggorokan/batuk dan 14 hari terakhir sebelum timbul gejala memiliki riwayat perjalanan atau tinggal di luar negeri yang melaporkan transmisi local atau di area transmisi lokal di Indonesia."
-			},
-			{
-				"title": "Pasien Dalam Pengawasan",
-				"desc": "PDP adalah singkatan dari Pasien Dalam Pengawasan. Seseorang dengan demam (≥38⁰C), disertai salah satu gejala/tanda penyakit pernapasan seperti: batuk/ sesak nafas/ sakit tenggorokan/ pilek/ pneumonia ringan hingga berat dan 14 hari terakhir sebelum timbul gejala"
-			},
-			{
-				"title": "Pasien Mengidap Corona",
-				"desc": "Seseorang terinfeksi COVID-19 dengan hasil pemeriksaan laboratorium positif."
-			}
-		]
-	},
-	"kegiatan": [{
-			"title": "Sebaran 433 Kasus Baru Covid-19: DKI Tetap Tertinggi, Disusul Jatim",
-			"desc": "Artikel ini telah tayang di Kompas.com dengan judul Sebaran 433 Kasus Baru Covid-19: DKI Tetap Tertinggi, Disusul Jatim, https://nasional.kompas.com/read/2020/05/01/16440401/sebaran-433-kasus-baru-covid-19-dki-tetap-tertinggi-disusul-jatim. Penulis : Ihsanuddin Editor : Fabian Januarius Kuwado",
-			"date": "2 januari 2020"
-		},
-		{
-			"title": "Sebaran 433 Kasus Baru Covid-19: DKI Tetap Tertinggi, Disusul Jatim",
-			"desc": "Artikel ini telah tayang di Kompas.com dengan judul Sebaran 433 Kasus Baru Covid-19: DKI Tetap Tertinggi, Disusul Jatim, https://nasional.kompas.com/read/2020/05/01/16440401/sebaran-433-kasus-baru-covid-19-dki-tetap-tertinggi-disusul-jatim. Penulis : Ihsanuddin Editor : Fabian Januarius Kuwado",
-			"date": "2 januari 2020"
-		},
-		{
-			"title": "Sebaran 433 Kasus Baru Covid-19: DKI Tetap Tertinggi, Disusul Jatim",
-			"desc": "Artikel ini telah tayang di Kompas.com dengan judul Sebaran 433 Kasus Baru Covid-19: DKI Tetap Tertinggi, Disusul Jatim, https://nasional.kompas.com/read/2020/05/01/16440401/sebaran-433-kasus-baru-covid-19-dki-tetap-tertinggi-disusul-jatim. Penulis : Ihsanuddin Editor : Fabian Januarius Kuwado",
-			"date": "2 januari 2020"
-		}
-	]
+    "covid-indonesia": [
+        {
+            "name": "Indonesia",
+            "positif": "13,645",
+            "sembuh": "2,607",
+            "meninggal": "959",
+            "dirawat": "10,079"
+        }
+    ],
+    "layanan": [
+        {
+            "cover": "https://jabarnews.com/assets/uploads/2020/04/pzmvwd8vm1j4_mid.jpg",
+            "caption": "Apps Android Peduli Lindungi",
+            "desc": "layanan pengaduan covid dengan melalui aplikasi peduli lindungi"
+        },
+        {
+            "cover": "https://wgroup.id/wp-content/uploads/2019/09/call-center-agent-efficiency-640x427.jpg",
+            "caption": "Call Center 1500117",
+            "desc": "Anda bisa menghubungi layanan pengaduan covid dengan melalui layanan call center"
+        },
+        {
+            "cover": "https://pbs.twimg.com/media/ETxZVt1UUAE_0Ox.jpg",
+            "caption": "WhatsApp +62082264576766",
+            "desc": "Anda bisa menghubungi layanan pengaduan covid dengan melalui WhatsApp"
+        },
+        {
+            "cover": "https://disk.mediaindonesia.com/thumbs/1800x1200/news/2020/04/e9729eea0beeec0c11b294f7413c00c6.jpg",
+            "caption": "Facebook COVIDINDO",
+            "desc": "Anda bisa menghubungi layanan pengaduan covid dengan melalui Facebook"
+        }
+    ],
+    "berita": [
+        {
+            "title": "Update Virus Corona di Surabaya & Jatim, Sabtu 9 Mei 2020 : Bertambah 135 Kasus, Kini 1419 Covid-19",
+            "img": "https://cdn2.tstatic.net/surabaya/foto/bank/images/update-virus-corona-di-surabaya-jatim-hari-ini-sabtu-9-mei-2020.jpg",
+            "desc": "Jumlah tambahan kasus Virus Corona hari ini kembali bertambah Tambahan kasus pada hari ini dilaporkan berada diatas tren peningkatan kasus harian yang selama ini berada pada angka 200-400 kasus. Artikel ini telah tayang di surya.co.id dengan judul Update Virus Corona di Surabaya & Jatim, Sabtu 9 Mei 2020 : Bertambah 135 Kasus, Kini 1419 Covid-19, https://surabaya.tribunnews.com/2020/05/09/update-virus-corona-di-surabaya-jatim-sabtu-9-mei-2020-bertambah-135-kasus-kini-1419-covid-19. Penulis: Abdullah Faqih, Editor: Adrianus Adhi",
+            "date": "2 januari 2020"
+        },
+        {
+            "title": "Peneliti EOCRU Sebut Indonesia Belum Punya Kurva Epidemi COVID-19",
+            "img": "https://akcdn.detik.net.id/community/media/visual/2020/04/15/9d858fec-6e1e-47c8-8d2f-544b9a48bc9a_169.jpeg?w=700&q=90",
+            "desc": "Jakarta - Presiden Joko Widodo (Jokowi) menginginkan agar kurva kasus virus Corona (COVID-19) turun di bulan Mei. Tim Peneliti Eijkman-Oxford Clinical Research Unit (EOCRU) menuliskan, hingga saat ini Indonesia belum menampilkan kurva epidemi COVID-19 yang sesuai dengan standar ilmu epidemiologi",
+            "date": "2 januari 2020"
+        },
+        {
+            "title": "Update Virus Corona di Surabaya & Jatim Minggu 10 Mei 2020, Pasien Sembuh 100 & 667 Positif COVID-19",
+            "img": "https://asset.kompas.com/crops/stSRBOJmx4LP6Ezk_DQpBJBhq0E=/0x0:1280x853/750x500/data/photo/2020/04/04/5e88715375d7f.jpeg",
+            "desc": "Artikel ini telah tayang di surya.co.id dengan judul Update Virus Corona di Surabaya & Jatim Minggu 10 Mei 2020, Pasien Sembuh 100 & 667 Positif COVID-19, https://surabaya.tribunnews.com/2020/05/10/update-virus-corona-di-surabaya-jatim-minggu-10-mei-2020-pasien-sembuh-100-667-positif-covid-19. Penulis: Putra Dewangga Candra Seta Editor: Adrianus Adhi",
+            "date": "2 januari 2020"
+        }
+    ],
+    "tips": {
+        "gejala": [
+            {
+                "title": "Demam",
+                "desc": "Demam menunjukkan gejala awal corona, demam biasanya mencapai suhu 38 derajat celcius keatas"
+            },
+            {
+                "title": "Batuk Kering",
+                "desc": "Batuk Kering tidak beriak dan berulang ulang merupakan tanda infeksi aktif di paru-paru, yang mungkin bisa disebabkan karena COVID-19"
+            },
+            {
+                "title": "Sakit Tenggorokan",
+                "desc": "Infeksi COVID-19 akan melalui jalur pernafasan sehingga dapat mengakibatkan radang pada tenggorokan dan rasa nyeri"
+            },
+            {
+                "title": "Sakit Kepala",
+                "desc": "Dengan adanya demam yang tinggi, COVID-19 seringkali diikuti dengan gejala sakit kepala"
+            },
+            {
+                "title": "Lemas",
+                "desc": "Infeksi COVID-19 yang telah menyebar ke seluruh tubuh akan menghabiskan energi yang banyak sehingga seringkali dapat mengakibatkan lemas"
+            },
+            {
+                "title": "Sesak Nafas",
+                "desc": "Apabila COVID-19 berkembang dengan cepat dan besar di paru-paru, fungsi paru akan menurun sehingga terjadi sesak nafas"
+            }
+        ],
+        "jenis_pasien": [
+            {
+                "title": "Orang Dalam Pemantauan",
+                "desc": "ODP adalah singkatan dari Orang Dalam Pemantauan. Seseorang yang mengalami demam (≥38⁰C) atau riwayat demam; atau gejala gangguan sistem pernapasan seperti pilek/sakit tenggorokan/batuk dan 14 hari terakhir sebelum timbul gejala memiliki riwayat perjalanan atau tinggal di luar negeri yang melaporkan transmisi local atau di area transmisi lokal di Indonesia."
+            },
+            {
+                "title": "Pasien Dalam Pengawasan",
+                "desc": "PDP adalah singkatan dari Pasien Dalam Pengawasan. Seseorang dengan demam (≥38⁰C), disertai salah satu gejala/tanda penyakit pernapasan seperti: batuk/ sesak nafas/ sakit tenggorokan/ pilek/ pneumonia ringan hingga berat dan 14 hari terakhir sebelum timbul gejala"
+            },
+            {
+                "title": "Pasien Mengidap Corona",
+                "desc": "Seseorang terinfeksi COVID-19 dengan hasil pemeriksaan laboratorium positif."
+            }
+        ]
+    }
 }
